@@ -105,7 +105,7 @@ form {
     outline: none;
     padding: .8em 0;
     text-shadow: 0 1px #68B25B;
-    color:rgb(7, 56, 112) ;
+    color:rgb(7, 56, 110) ;
   }
   input[type="submit"]:hover {
     background: rgb(129, 5, 5);
